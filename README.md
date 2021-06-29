@@ -1,4 +1,4 @@
-# lychee-slicer-shortcuts
+
 This page lists the keyboard shortcuts for Lychee Slicer 3. 
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
@@ -6,7 +6,9 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 I think you should use an
 `<addr>` element here instead.
 
-First Header | Second Header
+# File Operations
+
+Command | Shortcut
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Import a File | 'CTRL' + 'N'
+Open a File | 'CTRL' + 'I'
