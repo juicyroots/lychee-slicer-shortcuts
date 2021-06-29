@@ -26,6 +26,7 @@ Undo | <kbd>CTRL</kbd> + <kbd>Z</kbd>
 Deselect All | <kbd>CTRL</kbd> + <kbd>D</kbd>
 Select All |  <kbd>CTRL</kbd> + <kbd>A</kbd>
 Duplicate Selected |  <kbd>ALT</kbd> + <kbd>D</kbd>
+Duplicate Selected & Keep Arrangement | <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>D</kbd>
 Redo | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>Z</kbd>
 
 # View Operations
@@ -53,6 +54,7 @@ Move Clipping Bar DOWN by 5 Layers | <kbd>SHIFT</kbd> + <kbd>&#11206;</kbd>
 
 Command | Shortcut
 ------------ | -------------
+Look at Selection | <kbd>F</kbd>
 Perspective / Orthogonal Toggle | <kbd>0</kbd>
 Top View | <kbd>1</kbd>
 Bottom View | <kbd>2</kbd>
