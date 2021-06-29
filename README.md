@@ -10,12 +10,13 @@ Command | Shortcut
 New Scene | <kbd>CTRL</kbd> + <kbd>N</kbd>
 Import a File | <kbd>CTRL</kbd> + <kbd>I</kbd>
 Open a File | <kbd>CTRL</kbd> + <kbd>O</kbd>
+Save Scene | <kbd>CTRL</kbd> + <kbd>S</kbd>
+Save Scene As | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>
 Export All | <kbd>CTRL</kbd> + <kbd>E</kbd>
 Export Selected | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>E</kbd>
-Save Scene As | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>
 Show Preferences | <kbd>CTRL</kbd> + <kbd>,</kbd>
 Reload Lychee | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd>
-Save Scene | <kbd>CTRL</kbd> + <kbd>S</kbd>
+
 
 # Edit Operations
 
@@ -29,3 +30,35 @@ Duplicate Selected |  <kbd>ALT</kbd> + <kbd>D</kbd>
 Redo | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>Z</kbd>
 
 # View Operations
+
+Command | Shortcut
+------------ | -------------
+Rotate Up | <kbd>ALT</kbd> + <kbd>UP ARROW</kbd>
+Rotate Down | <kbd>ALT</kbd> + <kbd>DOWN ARROW</kbd>
+
+Rotate Right | <kbd>SHIFT</kbd> + <kbd>RIGHT ARROW</kbd>
+Rotate Left | <kbd>SHIFT</kbd> + <kbd>LEFT ARROW</kbd>
+
+Center Camera on Mouse | <kbd>F</kbd>
+Reset Camera | <kbd></kbd>
+
+Move Left | <kbd>LEFT ARROW</kbd>
+Move Right | <kbd>RIGHT ARROW</kbd>
+
+Zoom | <kbd>CTRL</kbd> + <kbd>=</kbd>
+Reset Zoom | <kbd>CTRL</kbd> + <kbd>-</kbd>
+
+Next Layer | <kbd>UP ARROW</kbd>
+Previous Layer | <kbd>DOWN ARROW</kbd>
+
+Clipping: Bottom Orientation | <kbd>PAGE DOWN</kbd>
+Clipping: Top Orientation | <kbd>PAGE UP</kbd>
+
+Move Clipping Bar UP by 5 Layers | <kbd>SHIFT</kbd> + <kbd>ARROW</kbd>
+Move Clipping Bar DOWN by 5 Layers | <kbd>SHIFT</kbd> + <kbd>DOWN ARROW</kbd>
+
+
+
+
+
+
