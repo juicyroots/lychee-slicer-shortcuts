@@ -33,8 +33,8 @@ Command | Shortcut
 ------------ | -------------
 Rotate Up | <kbd>ALT</kbd> + <kbd>&#11205;</kbd>
 Rotate Down | <kbd>ALT</kbd> + <kbd>&#11206;</kbd>
-Rotate Right | <kbd>SHIFT</kbd> + <kbd>&#11208;</kbd>
 Rotate Left | <kbd>SHIFT</kbd> + <kbd>&#11207;</kbd>
+Rotate Right | <kbd>SHIFT</kbd> + <kbd>&#11208;</kbd>
 Center Camera on Mouse | <kbd>F</kbd>
 Reset Camera | <kbd>ALT</kbd> + <kbd>H</kbd>
 Move Left | <kbd>&#11207;</kbd>
@@ -67,10 +67,10 @@ Command | Shortcut
 ------------ | -------------
 Scale Object | <kbd>S</kbd>
 Move Object | <kbd>T</kbd>
-Auto Orient Object | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>O</kbd>
 Rotate Object | <kbd>R</kbd>
 Mirror Object | <kbd>M</kbd>
 Show / Hide Object | <kbd>V</kbd>
+Auto Orient Object | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>O</kbd>
 
 # Support Operations
 
