@@ -89,5 +89,3 @@ Make Selected Support Light | <kbd>CTRL</kbd> + <kbd>1</kbd>
 Make Selected Support Medium | <kbd>CTRL</kbd> + <kbd>2</kbd>
 Make Selected Support Heavy | <kbd>CTRL</kbd> + <kbd>3</kbd>
 Recalculate Support(s) | <kbd>ALT</kbd> + <kbd>R</kbd>
--|-
-Add Support in Continuity Mode | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> ???
