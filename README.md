@@ -37,7 +37,7 @@ Rotate Up | <kbd>ALT</kbd> + <kbd>UP ARROW</kbd>
 Rotate Down | <kbd>ALT</kbd> + <kbd>DOWN ARROW</kbd>
 -|-
 Rotate Right | <kbd>SHIFT</kbd> + <kbd>&#9655;</kbd>
-Rotate Left | <kbd>SHIFT</kbd> + <kbd>LEFT ARROW</kbd>
+Rotate Left | <kbd>SHIFT</kbd> + <kbd>&#11208;</kbd>
 -|-
 Center Camera on Mouse | <kbd>F</kbd>
 Reset Camera | <kbd>ALT</kbd> + <kbd>H</kbd>
