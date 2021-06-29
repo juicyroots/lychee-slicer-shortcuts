@@ -10,7 +10,7 @@ I think you should use an
 
 Command | Shortcut
 ------------ | -------------
-New Scene | '<CTRL>' + '<N>'
+New Scene | '<ctrl>' + '<n>'
 Import a File | <CTRL> + <I>
 Open a File | <CTRL> + <O>
 Export All | <CTRL> + <E>
