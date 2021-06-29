@@ -76,10 +76,14 @@ Auto Orient Object | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>O</kbd>
 
 Command | Shortcut
 ------------ | -------------
+Advanced Editing Mode | <kbd>SPACE</kbd>
 Auto Supports | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>
 Support Visibility Toggle (Current / Previous) | <kbd>SHIFT</kbd> + <kbd>V</kbd>
 Make Selected Support Vertical | <kbd>ALT</kbd> + <kbd>V</kbd>
 Make Selected Support Straight | <kbd>ALT</kbd> + <kbd>S</kbd>
+Duplicate Selected Support | <kbd>ALT</kbd> + <kbd>D</kbd>
+Add Support in Continuity Mode | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd>
+Create Mini-Support | <kbd>CTRL</kbd> + <kbd>ALT</kbd>
 Two Click Support & Bracing Mode | <kbd>ALT</kbd>
 Make Selected Support Light | <kbd>CTRL</kbd> + <kbd>1</kbd>
 Make Selected Support Medium | <kbd>CTRL</kbd> + <kbd>2</kbd>
