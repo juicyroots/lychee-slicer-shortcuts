@@ -84,9 +84,10 @@ Make Selected Support Straight | <kbd>ALT</kbd> + <kbd>S</kbd>
 Duplicate Selected Support | <kbd>ALT</kbd> + <kbd>D</kbd>
 Duplicate & Move Selected Support | <kbd>ALT</kbd> + <kbd>SHIFT</kbd>
 Create Mini-Support | <kbd>CTRL</kbd> + <kbd>ALT</kbd>
-Add Support in Continuity Mode | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd>
 Two Click Support & Bracing Mode | <kbd>ALT</kbd>
 Make Selected Support Light | <kbd>CTRL</kbd> + <kbd>1</kbd>
 Make Selected Support Medium | <kbd>CTRL</kbd> + <kbd>2</kbd>
 Make Selected Support Heavy | <kbd>CTRL</kbd> + <kbd>3</kbd>
 Recalculate Support(s) | <kbd>ALT</kbd> + <kbd>R</kbd>
+-|-
+Add Support in Continuity Mode | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> ???
