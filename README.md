@@ -45,8 +45,8 @@ Zoom | <kbd>CTRL</kbd> + <kbd>=</kbd>
 Reset Zoom | <kbd>CTRL</kbd> + <kbd>-</kbd>
 Next Layer | <kbd>&#11205;</kbd>
 Previous Layer | <kbd>&#11206;</kbd>
-Clipping: Bottom Orientation | <kbd>PAGE DOWN</kbd>
 Clipping: Top Orientation | <kbd>PAGE UP</kbd>
+Clipping: Bottom Orientation | <kbd>PAGE DOWN</kbd>
 Move Clipping Bar UP by 5 Layers | <kbd>SHIFT</kbd> + <kbd>&#11205;</kbd>
 Move Clipping Bar DOWN by 5 Layers | <kbd>SHIFT</kbd> + <kbd>&#11206;</kbd>
 
