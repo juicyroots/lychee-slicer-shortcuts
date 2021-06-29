@@ -49,7 +49,7 @@ Clipping: Top Orientation | <kbd>PAGE UP</kbd>
 Move Clipping Bar UP by 5 Layers | <kbd>SHIFT</kbd> + <kbd>&#11205;</kbd>
 Move Clipping Bar DOWN by 5 Layers | <kbd>SHIFT</kbd> + <kbd>&#11206;</kbd>
 
-# View Operations
+# Camera Operations
 
 Command | Shortcut
 ------------ | -------------
@@ -61,4 +61,27 @@ Back View | <kbd>4</kbd>
 Left View | <kbd>5</kbd>
 Right View | <kbd>6</kbd>
 
+# Object Operations
 
+Command | Shortcut
+------------ | -------------
+Scale Object | <kbd>S</kbd>
+Move Object | <kbd>T</kbd>
+Auto Orient Object | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>O</kbd>
+Rotate Object | <kbd>R</kbd>
+Mirror Object | <kbd>M</kbd>
+Show / Hide Object | <kbd>V</kbd>
+
+# Support Operations
+
+Command | Shortcut
+------------ | -------------
+Auto Supports | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>
+Support Visibility Toggle (Current / Previous) | <kbd>SHIFT</kbd> + <kbd>V</kbd>
+Make Selected Support Vertical | <kbd>ALT</kbd> + <kbd>V</kbd>
+Make Selected Support Straight | <kbd>ALT</kbd> + <kbd>S</kbd>
+Two Click Support & Bracing Mode | <kbd>ALT</kbd>
+Make Selected Support Light | <kbd>CTRL</kbd> + <kbd>1</kbd
+Make Selected SUpport Medium | <kbd>CTRL</kbd> + <kbd>2</kbd
+Make Selected SUpport Heavy | <kbd>CTRL</kbd> + <kbd>3</kbd
+Recalculate Support(s) | <kbd>ALT</kbd> + <kbd>R</kbd>
