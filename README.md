@@ -8,8 +8,8 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 Command | Shortcut
 ------------ | -------------
 New Scene | <kbd>CTRL</kbd> + <kbd>N</kbd>
-Import a File | <kbd>CTRL</kbd> + <kbd>I</kbd>
-Open a File | <kbd>CTRL</kbd> + <kbd>O</kbd>
+Import File | <kbd>CTRL</kbd> + <kbd>I</kbd>
+Open a Scene | <kbd>CTRL</kbd> + <kbd>O</kbd>
 Save Scene | <kbd>CTRL</kbd> + <kbd>S</kbd>
 Save Scene As | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>
 Export All | <kbd>CTRL</kbd> + <kbd>E</kbd>
@@ -84,6 +84,6 @@ Make Selected Support Vertical | <kbd>ALT</kbd> + <kbd>V</kbd>
 Make Selected Support Straight | <kbd>ALT</kbd> + <kbd>S</kbd>
 Two Click Support & Bracing Mode | <kbd>ALT</kbd>
 Make Selected Support Light | <kbd>CTRL</kbd> + <kbd>1</kbd>
-Make Selected SUpport Medium | <kbd>CTRL</kbd> + <kbd>2</kbd>
-Make Selected SUpport Heavy | <kbd>CTRL</kbd> + <kbd>3</kbd>
+Make Selected Support Medium | <kbd>CTRL</kbd> + <kbd>2</kbd>
+Make Selected Support Heavy | <kbd>CTRL</kbd> + <kbd>3</kbd>
 Recalculate Support(s) | <kbd>ALT</kbd> + <kbd>R</kbd>
