@@ -36,11 +36,11 @@ Command | Shortcut
 Rotate Up | <kbd>ALT</kbd> + <kbd>UP ARROW</kbd>
 Rotate Down | <kbd>ALT</kbd> + <kbd>DOWN ARROW</kbd>
 -|-
-Rotate Right | <kbd>SHIFT</kbd> + <kbd>RIGHT ARROW</kbd>
+Rotate Right | <kbd>SHIFT</kbd> + <kbd>&#9655;</kbd>
 Rotate Left | <kbd>SHIFT</kbd> + <kbd>LEFT ARROW</kbd>
 -|-
 Center Camera on Mouse | <kbd>F</kbd>
-Reset Camera | <kbd></kbd>
+Reset Camera | <kbd>ALT</kbd> + <kbd>H</kbd>
 -|-
 Move Left | <kbd>LEFT ARROW</kbd>
 Move Right | <kbd>RIGHT ARROW</kbd>
