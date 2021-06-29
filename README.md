@@ -81,7 +81,7 @@ Support Visibility Toggle (Current / Previous) | <kbd>SHIFT</kbd> + <kbd>V</kbd>
 Make Selected Support Vertical | <kbd>ALT</kbd> + <kbd>V</kbd>
 Make Selected Support Straight | <kbd>ALT</kbd> + <kbd>S</kbd>
 Two Click Support & Bracing Mode | <kbd>ALT</kbd>
-Make Selected Support Light | <kbd>CTRL</kbd> + <kbd>1</kbd
-Make Selected SUpport Medium | <kbd>CTRL</kbd> + <kbd>2</kbd
-Make Selected SUpport Heavy | <kbd>CTRL</kbd> + <kbd>3</kbd
+Make Selected Support Light | <kbd>CTRL</kbd> + <kbd>1</kbd>
+Make Selected SUpport Medium | <kbd>CTRL</kbd> + <kbd>2</kbd>
+Make Selected SUpport Heavy | <kbd>CTRL</kbd> + <kbd>3</kbd>
 Recalculate Support(s) | <kbd>ALT</kbd> + <kbd>R</kbd>
