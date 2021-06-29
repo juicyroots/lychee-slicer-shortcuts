@@ -10,5 +10,12 @@ I think you should use an
 
 Command | Shortcut
 ------------ | -------------
-Import a File | 'CTRL' + 'N'
-Open a File | 'CTRL' + 'I'
+New Scene | <CTRL> + <N>
+Import a File | <CTRL> + <I>
+Open a File | <CTRL> + <O>
+Export All | <CTRL> + <E>
+Export Selected | <CTRL> + <>
+Save Scene As | <CTRL> + <>
+Show Preferences | <CTRL> + <>
+Reload Lychee | <CTRL> + <>
+Save Scene | <CTRL> + <>
