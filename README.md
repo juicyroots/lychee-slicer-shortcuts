@@ -12,7 +12,20 @@ Import a File | <kbd>CTRL</kbd> + <kbd>I</kbd>
 Open a File | <kbd>CTRL</kbd> + <kbd>O</kbd>
 Export All | <kbd>CTRL</kbd> + <kbd>E</kbd>
 Export Selected | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>E</kbd>
-Save Scene As | <kbd>CTRL</kbd> + <kbd>N</kbd>
-Show Preferences | <kbd>CTRL</kbd> + <kbd>N</kbd>
-Reload Lychee | <kbd>CTRL</kbd> + <kbd>N</kbd>
-Save Scene | <kbd>CTRL</kbd> + <kbd>N</kbd>
+Save Scene As | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>S</kbd>
+Show Preferences | <kbd>CTRL</kbd> + <kbd>,</kbd>
+Reload Lychee | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd>
+Save Scene | <kbd>CTRL</kbd> + <kbd>S</kbd>
+
+# Edit Operations
+
+Command | Shortcut
+------------ | -------------
+Remove | <kbd>DEL</kbd>
+Undo | <kbd>CTRL</kbd> + <kbd>Z</kbd>
+Deselect All | <kbd>CTRL</kbd> + <kbd>D</kbd>
+Select All |  <kbd>CTRL</kbd> + <kbd>A</kbd>
+Duplicate Selected |  <kbd>ALT</kbd> + <kbd>D</kbd>
+Redo | <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>Z</kbd>
+
+# View Operations
