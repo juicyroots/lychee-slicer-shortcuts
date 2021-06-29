@@ -1,8 +1,6 @@
 
 This page lists the keyboard shortcuts for [Lychee Slicer](https://lychee.mango3d.io/)
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even 
-
 # File Operations
 
 Command | Shortcut
