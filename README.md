@@ -36,8 +36,8 @@ Command | Shortcut
 Rotate Up | <kbd>ALT</kbd> + <kbd>UP ARROW</kbd>
 Rotate Down | <kbd>ALT</kbd> + <kbd>DOWN ARROW</kbd>
 -|-
-Rotate Right | <kbd>SHIFT</kbd> + <kbd>&#9655;</kbd>
-Rotate Left | <kbd>SHIFT</kbd> + <kbd>&#11208;</kbd>
+Rotate Right | <kbd>SHIFT</kbd> + <kbd>&#11208;</kbd>
+Rotate Left | <kbd>SHIFT</kbd> + <kbd>&#11207;</kbd>
 -|-
 Center Camera on Mouse | <kbd>F</kbd>
 Reset Camera | <kbd>ALT</kbd> + <kbd>H</kbd>
@@ -48,8 +48,8 @@ Move Right | <kbd>RIGHT ARROW</kbd>
 Zoom | <kbd>CTRL</kbd> + <kbd>=</kbd>
 Reset Zoom | <kbd>CTRL</kbd> + <kbd>-</kbd>
 -|-
-Next Layer | <kbd>UP ARROW</kbd>
-Previous Layer | <kbd>DOWN ARROW</kbd>
+Next Layer | <kbd>&#11205;</kbd>
+Previous Layer | <kbd>&#11206;</kbd>
 -|-
 Clipping: Bottom Orientation | <kbd>PAGE DOWN</kbd>
 Clipping: Top Orientation | <kbd>PAGE UP</kbd>
