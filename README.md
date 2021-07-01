@@ -37,6 +37,7 @@ Rotate Left | <kbd>SHIFT</kbd> + <kbd>&#11207;</kbd>
 Rotate Right | <kbd>SHIFT</kbd> + <kbd>&#11208;</kbd>
 Center Camera on Mouse | <kbd>F</kbd>
 Reset Camera | <kbd>ALT</kbd> + <kbd>H</kbd>
+Reset Camera to Default | Double Middle-Click
 Move Left | <kbd>&#11207;</kbd>
 Move Right | <kbd>&#11208;</kbd>
 Zoom | <kbd>CTRL</kbd> + <kbd>=</kbd>
